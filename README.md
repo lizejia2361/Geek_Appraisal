@@ -53,7 +53,7 @@
 #### 任务背景
 
 &nbsp;&nbsp;&nbsp;&nbsp;逻辑门（Logic Gates)是在集成电路(Integrated Circuit)上的基本组件。简单的逻辑门可由晶体管组成。这些晶体管的组合可以使代表两种信号的高低电平在通过它们之后产生高电平或者低电平的信号。高、低电平可以分别代表逻辑上的“真”与“假”或二进制当中的1和0，从而实现逻辑运算。
-
+# SpringBoot-Vue-demo
 &nbsp;&nbsp;&nbsp;&nbsp;大部分的逻辑结构都是通过逻辑门来实现的。逻辑门又称“数字逻辑电路基本单元”。执行“或”、“与”、“非”、“或非”、“与非”等逻辑运算的电路。任何复杂的逻辑电路都可由这些逻辑门组成。广泛用于计算机、通信、控制和数字化仪表。
 
 #### 任务要求
@@ -64,3 +64,5 @@
 + [逻辑门的种类与符号](https://www.eefocus.com/baike/481031)
 + [真值表](https://www.zhihu.com/question/275618526)
 + [常见七种逻辑门真值表](https://blog.csdn.net/weixin_52487896/article/details/125889966)
+! [题目一](https://github.com/lizejia2361/Geek_Appraisal/blob/main/%E7%AC%AC%E4%BA%8C%E9%A2%98.png)
+! [题目二](https://github.com/lizejia2361/Geek_Appraisal/blob/main/%E7%AC%AC%E4%B8%80%E9%A2%98.png)
